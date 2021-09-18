@@ -8,5 +8,5 @@
 4. Run "npx cypress open" command in terminal
 
 After Cypress test runner opens up:
-1. Click on "Exercise.spec.js" file to run the first test script and see the visualisation
+1. Click on "Exercise.spec.js" file to run the first test script and see the visualisation (dresses.txt file is the one saving the dress names)
 2. Click on "Exercise2.spec.js" file to run the second test script and see test results (Not everything was implemented though) 
