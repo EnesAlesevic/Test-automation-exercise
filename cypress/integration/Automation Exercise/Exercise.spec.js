@@ -17,7 +17,7 @@ context("Exercise", () => {
     it("Navigate to Home Page", () => {
         cy.fixture("data").then((data) => {
             cy.visit(data.url)
-            cy.writeFile('cypress/fixtures/myFile.txt', '')
+            cy.writeFile('cypress/fixtures/myFile.txt', ' ')
         })
     })
 
